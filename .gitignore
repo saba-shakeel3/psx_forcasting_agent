@@ -1,0 +1,5 @@
+# Example .gitignore content
+myenv
+.env
+venv/
+*.pyc
