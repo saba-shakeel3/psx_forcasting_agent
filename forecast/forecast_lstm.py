@@ -64,3 +64,4 @@ def forecast_next_price():
 # Optional: Run standalone
 if __name__ == "__main__":
     forecast_next_price()
+#hello world
